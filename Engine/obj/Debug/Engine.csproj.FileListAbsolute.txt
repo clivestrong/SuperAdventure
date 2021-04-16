@@ -1,0 +1,5 @@
+C:\Users\clive.strong\Documents\GitHub\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\clive.strong\Documents\GitHub\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\clive.strong\Documents\GitHub\SuperAdventure\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\clive.strong\Documents\GitHub\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\clive.strong\Documents\GitHub\SuperAdventure\Engine\obj\Debug\Engine.pdb
